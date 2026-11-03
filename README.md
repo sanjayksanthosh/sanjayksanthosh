@@ -84,6 +84,13 @@
 
 ---
 
+
+
+## 🧪 Other projects
+
+- [**job-search**](https://github.com/sanjayksanthosh/job-search) — Flask scraper for LinkedIn/Indeed jobs with contact extraction and pagination (6 tests).
+- [**imingle**](https://github.com/sanjayksanthosh/imingle) — Editorial Tailwind landing page for a plus-one matching concept.
+
 ## 📈 Contribution graph
 
 <p align="center">
