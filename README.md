@@ -66,6 +66,7 @@
 | [**leadflow**](https://github.com/sanjayksanthosh/leadflow) | Shared lead tracker for a 3-partner business with a 37-check headless-Chrome smoke suite | React 19 · TypeScript · Vite |
 | [**hotel_management**](https://github.com/sanjayksanthosh/hotel_management) | Hotel booking site with admin dashboard, NextAuth, Paystack, SMTP confirmations | Next.js 16 · Prisma · Postgres · NextAuth |
 | [**flat-rent-manager**](https://github.com/sanjayksanthosh/flat-rent-manager) | Buildings → flats → tenants → leases → rent collection with Postgres-native auth & RLS | Flutter · Supabase Postgres |
+| [**futura-labs-ai-tutor**](https://github.com/sanjayksanthosh/futura-labs-ai-tutor) | AI-powered educational app: personalized learning paths, AI-generated courses, smart assessments, student analytics, institution dashboard (27 screens) | Flutter · Provider · GoRouter · fl_chart · flutter_animate |
 | [**device-management-dashboard**](https://github.com/sanjayksanthosh/device-management-dashboard) | Device tracking dashboard with JWT, Zod validation, Jest tests, Docker | Next.js 16 · Express · Prisma · Postgres |
 
 ---
